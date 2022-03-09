@@ -3,7 +3,7 @@
 
 title: IPNSGoServer
 url: "https://mrodriguez3313.github.io"
-baseurl: "LandingSite"
+baseurl: "/LandingSite"
 google_analytics_key:
 google_maps_javascript_api_key:
 disqus_shortname:

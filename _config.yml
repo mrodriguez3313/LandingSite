@@ -9,12 +9,12 @@ google_maps_javascript_api_key:
 disqus_shortname:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
-logo: /siteicon.png
-description: Product marketing template for Jekyll.
+logo:
+description: IPNSGoServer landing page.
 author:
-  name:
+  name: Marco Rodriguez
   email:
-  twitter: # twitter username without the @ symbol
+  twitter: legendofmar
 social:
   name: Hydra Template
   links:
@@ -23,7 +23,7 @@ social:
 # -----
 # Build
 
-timezone: Etc/UTC
+timezone: PST/UTC
 
 collections:
   staff_members:

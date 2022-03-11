@@ -2,7 +2,7 @@
 # Site
 
 title: IPNSGoServer
-url: "https://mrodriguez3313.github.io"
+url: "https://ipnsgo.com"
 baseurl: "/LandingSite"
 google_analytics_key:
 google_maps_javascript_api_key:
@@ -15,10 +15,6 @@ author:
   name: Marco Rodriguez
   email:
   twitter: legendofmar
-social:
-  name: Hydra Template
-  links:
-    - https://github.com/CloudCannon/hydra-jekyll-template
 
 # -----
 # Build

@@ -2,8 +2,6 @@
 # Site
 
 title: IPNSGoServer
-url: "https://www.ipnsgo.com"
-baseurl: "/LandingSite"
 google_analytics_key:
 google_maps_javascript_api_key:
 disqus_shortname:

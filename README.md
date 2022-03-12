@@ -1,15 +1,6 @@
-# Hydra
+# IPNSGo Site
 
-Marketing site template for Jekyll. Browse through a [live demo](https://proud-alligator.cloudvent.net/).
-Increase the web presence of your brand with this configurable theme.
-
-![Hydra template screenshot](images/_screenshot.png)
-
-Hydra was made by [CloudCannon](http://cloudcannon.com/), the Cloud CMS for Jekyll.
-
-Find more templates, themes and step-by-step Jekyll tutorials at [CloudCannon Academy](https://learn.cloudcannon.com/).
-
-[![Deploy to CloudCannon](https://buttons.cloudcannon.com/deploy.svg)](https://app.cloudcannon.com/register#sites/connect/github/CloudCannon/hydra-jekyll-template)
+This site was made possible by making use of [CloudCannon](http://cloudcannon.com/)'s Jekyll template called [Hydra](https://learn.cloudcannon.com/). As well as free photos from Unsplash under the [Unsplash License](https://unsplash.com/license).
 
 ## Features
 

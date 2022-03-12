@@ -6,7 +6,6 @@ categories:
 author_staff_member: Marco
 ---
 
-
 Here is my week 1 update as per my IPFS grant! This week I switched from working straight onto the Get/Put endpoints, to seeing if I can get the basic functionality working. I made a branch called testFunc where I am working currently and current progress is focused on the function called testFunctions(). I got as far as generating keys and creating an entry with those keys. I am having trouble publishing the entry. The goal for next week is to get publishing working properly. Then start working on refactoring code to create clear and specific functions. From there I will start working on getting basic GET functionality working.
 
 Problems I ran into this week limiting progress were: 

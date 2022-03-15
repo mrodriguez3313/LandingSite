@@ -7,12 +7,12 @@ google_maps_javascript_api_key:
 disqus_shortname:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
-logo:
+logo: /ipnsgo-cropped.png
 description: IPNSGoServer landing page.
-author:
-  name: Marco Rodriguez
-  email:
-  twitter: legendofmar
+twitter:
+  username: legendofmar
+  card: summary
+
 
 # -----
 # Build

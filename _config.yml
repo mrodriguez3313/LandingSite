@@ -11,7 +11,9 @@ logo: /ipnsgo-cropped.png
 description: IPNSGoServer landing page.
 twitter:
   username: legendofmar
+  creator: legendofmar
   card: summary
+  description: Mutable data on IPFS
 
 
 # -----

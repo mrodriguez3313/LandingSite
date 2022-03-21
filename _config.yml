@@ -1,14 +1,14 @@
 # ----
 # Site
 
-title: IPNSGoServer
+title: Fierro
 google_analytics_key:
 google_maps_javascript_api_key:
 disqus_shortname:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /ipnsgo-cropped.png
-description: IPNSGoServer landing page.
+description: Fierro landing page.
 twitter:
   username: legendofmar
   creator: legendofmar

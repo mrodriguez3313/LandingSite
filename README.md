@@ -1,4 +1,4 @@
-# IPNSGo Site
+# Fierro Site
 
 This site was made possible by making use of [CloudCannon](http://cloudcannon.com/)'s Jekyll template called [Hydra](https://learn.cloudcannon.com/). As well as free photos from Unsplash under the [Unsplash License](https://unsplash.com/license).
 

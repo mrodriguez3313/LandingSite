@@ -40,21 +40,19 @@ header {
 
 		a {
 			display: inline-block;
-			position: inherit;
 		}
 
 		img {
-			display: block;
+			display: inline-block;
 			width: auto;
 		}
 
-		.p {
+		p {
 			font-family: 'Montserrat'; font-weight: 500;
 			color: rgba(255, 255, 255, 0.8);
-			display: inline;
-			position: relative;
-			vertical-align: super;
+			display: inline-block;
 			margin: 0;
+			vertical-align: text-bottom;
 		}
 	}
 }

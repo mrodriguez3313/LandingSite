@@ -5,8 +5,6 @@ categories:
   - Update
 author_staff_member: Marco
 ---
-# Week 6 Update
-
 Hello all!
 
 Some time has passedd since the last update, but I have been at work behind the scenes to make progress on the API. Firstly, as you may have noticed the name for the project has changed. As well as the repo location. it is now at Fierro-Labs/Fierro. This is because I believe in the potential of the project and I hope to learn more from the community and develop it further as a company. This would allow me to part take in more events ofiicially and bring authority to the project. So in these past three weeks, I have been holding off development to pursue longevity of the project like funding and the legal structure, as well as learning about things along those avenues. 

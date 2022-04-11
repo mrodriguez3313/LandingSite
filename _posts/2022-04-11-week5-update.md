@@ -1,3 +1,10 @@
+---
+date: 2022-04-11
+title: Week 6 Update for IPNSGoServer Project
+categories:
+  - Update
+author_staff_member: Marco
+---
 # Week 6 Update
 
 Hello all!

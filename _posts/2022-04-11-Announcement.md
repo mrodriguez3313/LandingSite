@@ -3,10 +3,10 @@ date: 2022-04-11
 title: How to Publish a website to IPNS with FIerro API
 categories:
   - Announcement
+  - videos
 author_staff_member: Marco
 ---
 Hello all!
-
 I have created a short video to demonstrate the current standing and capabilities of the API which is currently at the MVP stage. 
 
   <p>

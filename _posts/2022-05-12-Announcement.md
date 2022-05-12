@@ -1,5 +1,5 @@
 ---
-date: 2022-04-11
+date: 2022-05-11
 title: How to pin IPNS Records with Fierro
 categories:
   - Announcement
